@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Vision, NLP, Generative AI, Deep Reinforcement Learning]
+display_categories: [Vision, Generative AI, Natural Language Processing, Deep Reinforcement Learning]
 horizontal: false
 ---
 

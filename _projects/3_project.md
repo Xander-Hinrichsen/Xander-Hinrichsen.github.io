@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: BigGan ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎ ‎  ‎ (a big gan)
+description: Does self-supervised learning easily overfit on small data?
+img: assets/img/biggan.jpg
+redirect: ../assets/VAEBIGGANPAPER.pdf
 importance: 3
-category: work
+category: Generative AI
 ---
 
 Every project has a beautiful feature showcase page.

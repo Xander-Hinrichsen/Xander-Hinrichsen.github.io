@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Transformer Architecture
+description: The Transformer, reimplemented from scratch in PyTorch
+img: assets/img/transformer.webp
+redirect: https://github.com/Xander-Hinrichsen/Transformer-From-Scratch.git
 importance: 3
-category: fun
+category: Natural Language Processing
 ---
 
 Every project has a beautiful feature showcase page.

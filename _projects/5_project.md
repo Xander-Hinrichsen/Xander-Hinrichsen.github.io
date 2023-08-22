@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: AI Learns TrackMania
+description: Learning to drive in an easy environment with proximal policy optimization!
+img: assets/img/publication_preview/ppo.gif
+redirect: https://github.com/Xander-Hinrichsen/Simple-Autonomous-Driving-PPO-TrackMania.git
 importance: 3
-category: fun
+category: Deep Reinforcement Learning
 ---
 
 Every project has a beautiful feature showcase page.

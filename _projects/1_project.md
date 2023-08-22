@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Semantic Segmentation, CityScapes
+description: Efficient and Accurate Pixel-wise classification
+img: assets/img/publication_preview/SegGif.gif
 importance: 1
-category: work
+redirect: https://github.com/Xander-Hinrichsen/CityScapes-Segmentation.git
+category: Vision
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

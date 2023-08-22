@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Variational AutoEncoder
+description: Variational autoencoders generate with little variation
+img: assets/img/VAE.jpg
 importance: 2
-category: work
+redirect: ../assets/VAEBIGGANPAPER.pdf
+category: Generative AI
 giscus_comments: true
 ---
 
