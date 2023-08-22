@@ -2,7 +2,7 @@
 layout: page
 title: Variational AutoEncoder
 description: Variational autoencoders generate with little variation
-img: assets/img/vae.jpg
+img: ../assets/img/vae.jpg
 importance: 2
 redirect: ../assets/VAEBIGGANPAPER.pdf
 category: Generative AI
