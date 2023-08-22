@@ -157,10 +157,11 @@ Medical Robotics Junior Faculty Forum (ISMR: <a href="https://junior-forum-ismr.
 
 ## Table Of Contents
 
-  * [User community](#user-community)
-  * [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-  * [Table Of Contents](#table-of-contents)
-  * [Getting started](#getting-started)
+- [al-folio](#al-folio)
+  - [User community](#user-community)
+  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+  - [Table Of Contents](#table-of-contents)
+  - [Getting started](#getting-started)
     - [Installation](#installation)
       - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
       - [Local Setup (Legacy)](#local-setup-legacy)
@@ -182,6 +183,35 @@ Medical Robotics Junior Faculty Forum (ISMR: <a href="https://junior-forum-ismr.
       - [Related posts](#related-posts)
   - [Contributing](#contributing)
     - [Maintainers](#maintainers)
+    - [All Contributors](#all-contributors)
+  - [License](#license)
+- [al-folio](#al-folio)
+  - [User community](#user-community)
+  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+  - [Table Of Contents](#table-of-contents)
+  - [Getting started](#getting-started)
+    - [Installation](#installation)
+      - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
+      - [Local Setup (Legacy)](#local-setup-legacy)
+      - [Deployment](#deployment)
+      - [Upgrading from a previous version](#upgrading-from-a-previous-version)
+    - [FAQ](#faq)
+  - [Features](#features)
+    - [Publications](#publications)
+    - [Collections](#collections)
+    - [Layouts](#layouts)
+      - [The iconic style of Distill](#the-iconic-style-of-distill)
+      - [Full support for math \& code](#full-support-for-math--code)
+      - [Photos](#photos)
+    - [Other features](#other-features)
+      - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
+      - [Theming](#theming)
+      - [Social media previews](#social-media-previews)
+      - [Atom (RSS-like) Feed](#atom-rss-like-feed)
+      - [Related posts](#related-posts)
+  - [Contributing](#contributing)
+    - [Maintainers](#maintainers)
+    - [All Contributors](#all-contributors)
   - [License](#license)
 
 ## Getting started
@@ -503,7 +533,7 @@ There are several custom bibtex keywords that you can use to affect how the entr
 - `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `blog`: Adds a "Blog" button redirecting to the specified link
-- `code`: Adds a "Code" button redirecting to the specified link
+- `code`: high
 - `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `website`: Adds a "Website" button redirecting to the specified link
