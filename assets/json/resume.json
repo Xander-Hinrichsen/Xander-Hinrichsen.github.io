@@ -8,14 +8,14 @@
   },
   "work": [
     {
-      "name": "UCSD Computer Science and Engineering Department",
-      "position": "Algorithms I Teacher's Assistant",
+      "name": "Algorithms I, UCSD Computer Science and Engineering Department",
+      "position": "CSE 21 Teacher's Assistant",
       "startDate": "2023",
       "endDate": "2024"
     },
     {
-        "name": "UCSD Computer Science and Engineering Department",
-        "position": "Algorithms II Teacher's Assistant",
+        "name": "Algorithms II, UCSD Computer Science and Engineering Department",
+        "position": "CSE 101 Teacher's Assistant",
         "startDate": "2023",
         "endDate": "2024"
     }
@@ -36,7 +36,7 @@
       "endDate": "2025",
       "score": "",
       "courses": [
-        "Courses: Computer Vision, Deep Learning, Advanced Machine Learning Seminar, Algorithms, Data Structures"
+        "Courses: Computer Vision (CSE 152A), Deep Learning (ECE 176), Advanced Machine Learning Seminar (Cogs 185), Algorithms (CSE 101), Data Structures (CSE 100)"
       ]
     }
   ],
