@@ -23,4 +23,4 @@ I study Computer Science, and I will be graduating with a BS in CS from UCSD in 
 
 I believe Machine Learning is the future, and I emphatically state my interest in the field by reimplementing renowned research papers from scratch, for example the model architecture behind ChatGPT. Such efforts have landed me the position of creating a new curriculum for and lecturing other college students on Machine Learning, as an AI Event Lead for [ACM at UCSD](https://ai.acmucsd.com/).
 
-I am currently interested in autonomous driving and robotics, to make intelligent agents, whether it be through **deep reinforcement learning**, merely **scaling parameters and training data**, or developing more **efficient algorithms**.
+I am currently interested in autonomous driving and robotics: to make intelligent agents, whether it be through **deep reinforcement learning**, merely **scaling parameters and training data**, or developing more **efficient algorithms**.
