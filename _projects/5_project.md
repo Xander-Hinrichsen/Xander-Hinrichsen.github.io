@@ -3,7 +3,7 @@ layout: page
 title: AI Learns TrackMania
 description: Learning to drive in an easy environment with proximal policy optimization!
 img: assets/img/publication_preview/ppo.gif
-redirect: https://github.com/Xander-Hinrichsen/Simple-Autonomous-Driving-PPO-TrackMania.git
+redirect: https://github.com/Xander-Hinrichsen/ppo-trackmania.git
 importance: 3
 category: Deep Reinforcement Learning
 ---

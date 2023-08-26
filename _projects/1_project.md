@@ -4,7 +4,7 @@ title: Semantic Segmentation, CityScapes
 description: Efficient and Accurate Pixel-wise classification
 img: assets/img/publication_preview/SegGif.gif
 importance: 1
-redirect: https://github.com/Xander-Hinrichsen/CityScapes-Segmentation.git
+redirect: https://github.com/Xander-Hinrichsen/cityscapes-segmentation.git
 category: Vision
 related_publications: einstein1956investigations, einstein1950meaning
 ---
